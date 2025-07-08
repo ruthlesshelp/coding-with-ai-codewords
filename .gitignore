@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Exclude the pg26732.txt file
+#  This file is input data and should not be included in version control.
+pg26732.txt
