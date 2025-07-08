@@ -1,5 +1,10 @@
 # Coding with AI
 
+_Coding with AI: Examples in Python_ by Jeremy Morgan
+MEAP began September 2024 / Last updated July 2025
+
+Learn more here: https://www.manning.com/books/coding-with-ai
+
 ## First Project: CodeWords
 
 First Copilot-assisted program in the Coding with AI book, takes a text file from Project Gutenberg and counts the word frequency.
